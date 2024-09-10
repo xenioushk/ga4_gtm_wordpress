@@ -2,6 +2,12 @@
 
 In this tutorial, we will learn how to add Google Analytics to a WordPress website through Google Tag Manager. Previously, we used to add Google Analytics code directly to a WordPress website’s header section. Now, we will handle all the functionality of Google Analytics using the Google Tag Manager code. This will enable us to manage all tracking with a single code. Additionally, Google Tag Manager allows admin users to customize the tracking settings and publish from its dashboard very easily. In the following steps, we will learn more about the settings.
 
+## Requirments
+
+- Google Analytics account.
+- Google Tag Manager account.
+- A WordPress website.
+
 ## Get the GTM code
 
 1. Log in to the [Google Tag Manager](https://tagmanager.google.com/#/home) site.
