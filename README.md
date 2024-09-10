@@ -139,3 +139,7 @@ In this tutorial, we will learn how to add Google Analytics to a WordPress websi
 10. You can also see the update from the dashboard.
 
 ![GTM version update status](/previews/gtm_version_update_status.jpg)
+
+## Acknowledgement:
+
+- [bluewindlab.net](https://bluewindlab.net)
