@@ -140,6 +140,12 @@ In this tutorial, we will learn how to add Google Analytics to a WordPress websi
 
 ![GTM version update status](/previews/gtm_version_update_status.jpg)
 
-## Acknowledgement:
+## Final result
+
+You need to wait a few more days and allow analytics to collect data and generate reports for you.
+
+![Update GTM code and versioning](/previews/analytics_page_results.jpg)
+
+## Acknowledgement
 
 - [bluewindlab.net](https://bluewindlab.net)
